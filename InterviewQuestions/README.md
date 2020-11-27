@@ -4,3 +4,5 @@
 > 2. [求多个数组的交集](https://github.com/CrownNight/blog/issues/3)
 
 > 3. [异步笔试题，写出下面代码输出什么（event loop）](https://github.com/CrownNight/blog/issues/4)
+
+> 4. [new关键字做了什么？如何实现一个new](https://github.com/CrownNight/blog/issues/5)
